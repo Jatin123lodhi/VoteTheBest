@@ -1,0 +1,9 @@
+[submodule "VoteQuestion-Fe"]
+	path = VoteQuestion-Fe
+	url = https://github.com/Jatin123lodhi/VoteQuestion-Fe
+[submodule "VoteQuestion-ClientFE"]
+	path = VoteQuestion-ClientFE
+	url = https://github.com/Jatin123lodhi/VoteQuestion-ClientFE
+[submodule "VoteQuestion-BE"]
+	path = VoteQuestion-BE
+	url = https://github.com/Jatin123lodhi/VoteQuestion-BE
